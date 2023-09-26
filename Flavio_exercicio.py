@@ -1,11 +1,13 @@
 print('1. (1,0 ponto) escreva um programa em Python que mostre os números de uma lista após\n'
 'remover os números pares dela.\n')
 
+print('--------------------------------------------------------------------------------------')
 print('2. (1,0 ponto) escreva um programa em Python que aceite uma lista de inteiros. Calculen\n'
 'o comprimento da lista e a quantidade de ocorrências do quinto elemento da lista.\n'
 'Retorne True se o comprimento da lista for 8 e o quinto elemento ocorrer três vezes\n'
 'na referida lista.\n')
 
+print('--------------------------------------------------------------------------------------')
 print('3. (1,0 ponto) escreva um programa em Python para verificar se uma determinada chave\n'
 'já existe em um dicionário.\n')
 
